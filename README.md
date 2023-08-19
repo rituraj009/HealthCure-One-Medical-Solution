@@ -1,4 +1,4 @@
-![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/ea52fd7a-207a-4c7b-988e-ab6ee9efdc51)![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/bd7ad6d5-6957-4fc5-b16f-fad1d2ed4633)# HealthCure-One-Medical-Solution
+# HealthCure-One-Medical-Solution
 
 ## Project Introduction
 
