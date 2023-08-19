@@ -73,11 +73,14 @@ To enable the backend database functionality, you need to create a Firebase app/
 
 ## Screenshots
 
-![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/7b8ed1b7-89d0-402e-b72a-6b36dd981e5d)
-
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/9d77fbe5-b685-4641-846f-0ec2eb757a0a)
 
 ![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/df7836b4-3c76-4b2d-a99d-09333f7fd07e)
 
+
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/ce09f38b-c054-4ffb-82c6-2f2b19abc45f)
+
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/64c4013c-303d-4a3a-9562-ca735e14412a)
 
 
 
