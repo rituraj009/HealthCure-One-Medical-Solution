@@ -4,6 +4,7 @@
 
 Welcome to our AI-powered disease detection system! This project aims to revolutionize patient care by leveraging advanced technology for the accurate and rapid detection of seven critical diseases. Our system harnesses the power of machine learning to provide quick and reliable diagnoses, ultimately enhancing patient monitoring and treatment.
 
+<br>
 
 ## Project Goals
 1) Develop an end-to-end solution for disease detection, encompassing data input, processing, and accurate diagnosis.
