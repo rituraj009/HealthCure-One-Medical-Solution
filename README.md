@@ -1,4 +1,4 @@
-# HealthCure-One-Medical-Solution
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/ea52fd7a-207a-4c7b-988e-ab6ee9efdc51)![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/bd7ad6d5-6957-4fc5-b16f-fad1d2ed4633)# HealthCure-One-Medical-Solution
 
 ## Project Introduction
 
@@ -42,6 +42,44 @@ The concluding phase focuses on system deployment onto a cloud platform like AWS
 
 ## Diagrammatic Representation of the Project
 ![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/5eff05f3-2f13-47ea-8c1f-92e5c1dec477)
+
+<br>
+
+## Dependencies
+- Python 3.9
+- TensorFlow, PyTorch, scikit-learn
+- OpenCV
+- Flask Framework
+- Google Firebase
+
+<br>
+
+## Installation
+1. Clone this repository: `git clone https://github.com/yourusername/HealthCure-Project.git`
+2. Navigate to the project directory: `cd HealthCure-Project`
+3. Install required Python packages: `pip install -r requirements.txt`
+
+<br>
+
+## Usage
+1. Run the Flask web application: `python app.py`
+2. Access the application through a web browser at `http://localhost:5000`
+
+<br>
+
+## Backend Database Configuration
+To enable the backend database functionality, you need to create a Firebase app/project and download its credentials (usually in a `JSON` file). Place this file in the project root directory.
+
+
+## Screenshots
+
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/7b8ed1b7-89d0-402e-b72a-6b36dd981e5d)
+
+
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/df7836b4-3c76-4b2d-a99d-09333f7fd07e)
+
+
+
 
 
 
