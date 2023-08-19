@@ -41,7 +41,8 @@ The concluding phase focuses on system deployment onto a cloud platform like AWS
 <br>
 
 ## Diagrammatic Representation of the Project
-![Screenshot 2023-08-19 082431](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/4904ea42-ea5a-4f2c-bad4-8f6d3ea7d60f)
+![image](https://github.com/rituraj009/HealthCure-One-Medical-Solution/assets/102078863/5eff05f3-2f13-47ea-8c1f-92e5c1dec477)
+
 
 
 
